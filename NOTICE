@@ -1,0 +1,15 @@
+voice-search
+Copyright 2026 Alexander V. Trotsky
+
+Licensed under the Apache License, Version 2.0 (LICENSE).
+
+This product includes software and a model by Cactus Compute, also licensed
+under the Apache License, Version 2.0, redistributed unmodified:
+
+  needle.js, needle.wasm   The Needle engine, WebAssembly build
+                           https://huggingface.co/Cactus-Compute/needle3
+                           wasm/, revision 93e88ede867e4311c39151285e74df513e4b835b
+
+  whistle.cact             The Whistle speech-to-text model
+                           https://huggingface.co/Cactus-Compute/whistle
+                           revision ca5287601bef25af26dcf2e1b2bdc0843a7c19e5
